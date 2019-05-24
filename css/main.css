@@ -1141,6 +1141,14 @@ input::-moz-focus-inner {
  *  08. common and reusable styles
  *
  * ------------------------------------------------------------------- */
+
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 88rem;
+}
+
 .section-intro {
   text-align: center;
   position: relative;
